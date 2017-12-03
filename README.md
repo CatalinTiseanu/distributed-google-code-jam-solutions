@@ -13,5 +13,5 @@ Links:
 * Round 1, 2016: https://code.google.com/codejam/contest/11264486/dashboard
 
 * World finals, 2015: https://code.google.com/codejam/contest/11224486/dashboard
-* Round 2, 2015: https://code.google.com/codejam/contest/8254486/dashboard
-* Round 1 (practice), 2015: https://code.google.com/codejam/contest/4264486/dashboard 
+* Round, 2015: https://code.google.com/codejam/contest/8254486/dashboard
+* Practice, 2015: https://code.google.com/codejam/contest/4264486/dashboard 
