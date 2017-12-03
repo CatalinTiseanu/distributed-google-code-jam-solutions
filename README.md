@@ -1,6 +1,6 @@
 # Distributed Google Code Jam (DGCJ) Solutions
 
-Accepted C++ implementations for several Distributed Google Code Jam solutions
+Accepted C++ implementations for several Distributed Google Code Jam problems.
 
 Link to all DGCJ solutions: https://code.google.com/codejam/past-contests
 
